@@ -11,8 +11,8 @@
     "url": "git+ssh://git@github.com:Bruce-zxy/which-type.git"
   },
   "keywords": [
-    "date",
-    "format"
+    "type",
+    "javascript"
   ],
   "author": "hadesz",
   "license": "MIT",
