@@ -1,0 +1,23 @@
+{
+  "name": "@hadesz/which-type",
+  "version": "1.0.0",
+  "description": "A lightweight tool for retrieving javascript variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:Bruce-zxy/which-type.git"
+  },
+  "keywords": [
+    "date",
+    "format"
+  ],
+  "author": "hadesz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bruce-zxy/which-type/issues"
+  },
+  "homepage": "https://github.com/Bruce-zxy/which-type#readme"
+}
